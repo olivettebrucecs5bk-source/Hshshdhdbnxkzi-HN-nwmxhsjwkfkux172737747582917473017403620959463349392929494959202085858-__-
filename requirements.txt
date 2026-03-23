@@ -1,4 +1,5 @@
-flask
+fastapi
+uvicorn
 aiohttp
-requests
-gunicorn
+tinydb
+websockets
